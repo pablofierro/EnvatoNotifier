@@ -1,0 +1,413 @@
+TEnvatoNotifier
+v7
+r0
+t334607643.657586
+cCheck dependencies
+cProcessInfoPlistFile /Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Info.plist EnvatoNotifier/EnvatoNotifier-Info.plist
+cProcessPCH /var/folders/3o/3ofwnT8-G6iVzw9zxBX55++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EnvatoNotifier-Prefix-ejtsdxpbwqjjxoezkfvanelubsah/EnvatoNotifier-Prefix.pch.pth EnvatoNotifier/EnvatoNotifier-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/Objects-normal/x86_64/main.o /Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/Objects-normal/x86_64/EnvatoNotifierAppDelegate.o /Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoNotifierAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/Objects-normal/x86_64/EnvatoAPI.o /Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoAPI.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCopyStringsFile /Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Resources/en.lproj/InfoPlist.strings EnvatoNotifier/en.lproj/InfoPlist.strings
+cCpResource build/Debug/EnvatoNotifier.app/Contents/Resources/en.lproj/Credits.rtf EnvatoNotifier/en.lproj/Credits.rtf
+cCompileXIB /Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/en.lproj/MainMenu.xib
+cCpResource "build/Debug/EnvatoNotifier.app/Contents/Resources/Growl Registration Ticket.growlRegDict" "EnvatoNotifier/Growl Registration Ticket.growlRegDict"
+cPBXCp build/Debug/EnvatoNotifier.app/Contents/Frameworks/YAJL.framework YAJL.framework
+cPBXCp build/Debug/EnvatoNotifier.app/Contents/Frameworks/Growl.framework Growl.framework
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004A67D2A800000000000017ED
+t1248318120
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004A7680BE00000000000005FE
+t1249280190
+s1534
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A769D9B0000000000003430
+t1249287579
+s13360
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A600B8400000000000013E6
+t1247808388
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/cdefs.h
+c000000004A73D64F0000000000005623
+t1249105487
+s22051
+
+N/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoAPI.h
+c000000004E3CC7A400000000000001A3
+t1312606116
+s419
+i<Foundation/Foundation.h>
+
+N/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoAPI.m
+c000000004E40CAC9000000000000066C
+t1312869065
+s1644
+i"EnvatoAPI.h"
+i<YAJL/YAJL.h>
+
+N/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoNotifier-Prefix.pch
+c000000004E3DCE66000000000000009C
+t1312673382
+s156
+i<Cocoa/Cocoa.h>
+
+N/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoNotifierAppDelegate.h
+c000000004E40C3CD0000000000000451
+t1312867277
+s1105
+i<Cocoa/Cocoa.h>
+
+N/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoNotifierAppDelegate.m
+c000000004E417D9600000000000016B4
+t1312914838
+s5812
+i"EnvatoNotifierAppDelegate.h"
+i"EnvatoAPI.h"
+i<Growl/Growl.h>
+
+N/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/Growl Registration Ticket.growlRegDict
+c000000004E40C45F000000000000024F
+t1312867423
+s591
+
+N/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/en.lproj/Credits.rtf
+c000000004E3DCE6600000000000001B4
+t1312673382
+s436
+
+N/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/en.lproj/InfoPlist.strings
+c000000004E3DCE66000000000000002D
+t1312673382
+s45
+
+N/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/en.lproj/MainMenu.xib
+c000000004E40C4F70000000000024F1A
+t1312867575
+s151322
+
+N/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/main.m
+c000000004E3DCE6600000000000000FE
+t1312673382
+s254
+i<Cocoa/Cocoa.h>
+
+N/Users/pablo/Desktop/EnvatoNotifier/Growl.framework
+c000000004C364A1000000000000000CC
+t1278626320
+s204
+
+N/Users/pablo/Desktop/EnvatoNotifier/Growl.framework/Growl
+c000000004C364A10000000000003F4B8
+t1278626320
+s259256
+
+N/Users/pablo/Desktop/EnvatoNotifier/Growl.framework/Headers/Growl.h
+c000000004C364A100000000000000082
+t1278626320
+s130
+i"GrowlDefines.h"
+i"GrowlApplicationBridge.h"
+i"GrowlApplicationBridge-Carbon.h"
+
+N/Users/pablo/Desktop/EnvatoNotifier/Growl.framework/Headers/GrowlApplicationBridge-Carbon.h
+c000000004C364A10000000000000867E
+t1278626320
+s34430
+i<sys/cdefs.h>
+i<Carbon/Carbon.h>
+
+N/Users/pablo/Desktop/EnvatoNotifier/Growl.framework/Headers/GrowlApplicationBridge.h
+c000000004C364A100000000000006B1D
+t1278626320
+s27421
+i<Foundation/Foundation.h>
+i<AppKit/AppKit.h>
+i"GrowlDefines.h"
+
+N/Users/pablo/Desktop/EnvatoNotifier/Growl.framework/Headers/GrowlDefines.h
+c000000004C364A100000000000003D75
+t1278626320
+s15733
+
+N/Users/pablo/Desktop/EnvatoNotifier/YAJL.framework
+c000000004D6FF80400000000000000CC
+t1299183620
+s204
+
+N/Users/pablo/Desktop/EnvatoNotifier/YAJL.framework/Headers/NSBundle+YAJL.h
+c000000004D6FF829000000000000090E
+t1299183657
+s2318
+i"YAJLParser.h"
+
+N/Users/pablo/Desktop/EnvatoNotifier/YAJL.framework/Headers/NSObject+YAJL.h
+c000000004D6FF8290000000000001525
+t1299183657
+s5413
+i"YAJLGen.h"
+i"YAJLParser.h"
+
+N/Users/pablo/Desktop/EnvatoNotifier/YAJL.framework/Headers/YAJL.h
+c000000004D6FF8290000000000001A04
+t1299183657
+s6660
+i"YAJLParser.h"
+i"YAJLDocument.h"
+i"YAJLGen.h"
+i"NSObject+YAJL.h"
+i"NSBundle+YAJL.h"
+i<YAJL/YAJL.h>
+i<YAJLiOS/YAJL.h>
+
+N/Users/pablo/Desktop/EnvatoNotifier/YAJL.framework/Headers/YAJLDocument.h
+c000000004D6FF8290000000000001C2B
+t1299183657
+s7211
+i"YAJLParser.h"
+
+N/Users/pablo/Desktop/EnvatoNotifier/YAJL.framework/Headers/YAJLGen.h
+c000000004D6FF829000000000000102E
+t1299183657
+s4142
+i"yajl_gen.h"
+
+N/Users/pablo/Desktop/EnvatoNotifier/YAJL.framework/Headers/YAJLParser.h
+c000000004D6FF82900000000000015E8
+t1299183657
+s5608
+i"yajl_parse.h"
+
+N/Users/pablo/Desktop/EnvatoNotifier/YAJL.framework/Headers/yajl_common.h
+c000000004D6FF8290000000000000C3B
+t1299183657
+s3131
+
+N/Users/pablo/Desktop/EnvatoNotifier/YAJL.framework/Headers/yajl_gen.h
+c000000004D6FF8290000000000001C2D
+t1299183657
+s7213
+i<yajl/yajl_common.h>
+
+N/Users/pablo/Desktop/EnvatoNotifier/YAJL.framework/Headers/yajl_parse.h
+c000000004D6FF8290000000000002137
+t1299183657
+s8503
+i<yajl/yajl_common.h>
+
+N/Users/pablo/Desktop/EnvatoNotifier/YAJL.framework/YAJL
+c000000004D6FF8290000000000040F94
+t1299183657
+s266132
+
+N/Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app
+t2
+s0
+
+N/Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Frameworks/Growl.framework
+t1312914843
+s204
+
+N/Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Frameworks/YAJL.framework
+t1312914843
+s204
+
+N/Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Info.plist
+t1312914839
+s933
+
+N/Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/MacOS/EnvatoNotifier
+t2
+s0
+
+N/Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/PkgInfo
+t1312914839
+s8
+
+N/Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Resources/Growl Registration Ticket.growlRegDict
+t1312914842
+s591
+
+N/Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Resources/en.lproj/Credits.rtf
+t1312914842
+s436
+
+N/Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1312914843
+s92
+
+N/Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Resources/en.lproj/MainMenu.nib
+t1312914843
+s32219
+
+N/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/Objects-normal/x86_64/EnvatoAPI.o
+t1312914841
+s11460
+
+N/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/Objects-normal/x86_64/EnvatoNotifier.LinkFileList
+c000000004E417D97000000000000017F
+t1312914839
+s383
+
+N/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/Objects-normal/x86_64/EnvatoNotifierAppDelegate.o
+t2
+s0
+
+N/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/Objects-normal/x86_64/main.o
+t1312914841
+s2248
+
+N/var/folders/3o/3ofwnT8-G6iVzw9zxBX55++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EnvatoNotifier-Prefix-ejtsdxpbwqjjxoezkfvanelubsah/EnvatoNotifier-Prefix.pch.pth
+t1312914841
+s7463228
+
+NEnvatoNotifier/EnvatoNotifier-Info.plist
+c000000004E40B5C20000000000000404
+t1312863682
+s1028
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies334607639#334607639#0(0"0(0#1#0"9007637348679712#0"0#
+
+CCompileC build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/Objects-normal/x86_64/EnvatoAPI.o /Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoAPI.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s334607641.397302
+e334607641.821241
+r1
+xCompileC
+xbuild/EnvatoNotifier.build/Debug/EnvatoNotifier.build/Objects-normal/x86_64/EnvatoAPI.o
+x/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoAPI.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@70"Compile /Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoAPI.m334607641#334607641#0(0"0(0#0#62"/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoAPI.m4300882208#1664"    cd /Users/pablo/Desktop/EnvatoNotifier    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/EnvatoNotifier-generated-files.hmap -I/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/EnvatoNotifier-own-target-headers.hmap -I/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/EnvatoNotifier-all-target-headers.hmap -iquote /Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/EnvatoNotifier-project-headers.hmap -F/Users/pablo/Desktop/EnvatoNotifier/build/Debug -F/Users/pablo/Desktop/EnvatoNotifier -I/Users/pablo/Desktop/EnvatoNotifier/build/Debug/include -I/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/DerivedSources/x86_64 -I/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/DerivedSources -include /var/folders/3o/3ofwnT8-G6iVzw9zxBX55++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EnvatoNotifier-Prefix-ejtsdxpbwqjjxoezkfvanelubsah/EnvatoNotifier-Prefix.pch -c /Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoAPI.m -o /Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/Objects-normal/x86_64/EnvatoAPI.o0#
+
+CCompileC build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/Objects-normal/x86_64/EnvatoNotifierAppDelegate.o /Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoNotifierAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s334607641.396073
+e334607641.881521
+r0
+xCompileC
+xbuild/EnvatoNotifier.build/Debug/EnvatoNotifier.build/Objects-normal/x86_64/EnvatoNotifierAppDelegate.o
+x/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoNotifierAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoNotifierAppDelegate.m:141:7: error: use of undeclared identifier 'saledate'
+o   if([saledate isGreaterThan:lastsale])   
+o       ^
+o1 diagnostic generated.
+lSLF07#2@86"Compile /Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoNotifierAppDelegate.m334607641#334607641#0(186"/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoNotifierAppDelegate.m:141:7: error: use of undeclared identifier 'saledate'   if([saledate isGreaterThan:lastsale])          ^1(4@39"Use of undeclared identifier 'saledate'334607641#0#133#0(6@78"/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoNotifierAppDelegate.m334607638#141#7#0#0#32"use of undeclared identifier '*'0(0#0#78"/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoNotifierAppDelegate.m4300882208#1696"    cd /Users/pablo/Desktop/EnvatoNotifier    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/EnvatoNotifier-generated-files.hmap -I/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/EnvatoNotifier-own-target-headers.hmap -I/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/EnvatoNotifier-all-target-headers.hmap -iquote /Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/EnvatoNotifier-project-headers.hmap -F/Users/pablo/Desktop/EnvatoNotifier/build/Debug -F/Users/pablo/Desktop/EnvatoNotifier -I/Users/pablo/Desktop/EnvatoNotifier/build/Debug/include -I/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/DerivedSources/x86_64 -I/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/DerivedSources -include /var/folders/3o/3ofwnT8-G6iVzw9zxBX55++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EnvatoNotifier-Prefix-ejtsdxpbwqjjxoezkfvanelubsah/EnvatoNotifier-Prefix.pch -c /Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoNotifierAppDelegate.m -o /Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/Objects-normal/x86_64/EnvatoNotifierAppDelegate.o1#
+
+CCompileC build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/Objects-normal/x86_64/main.o /Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s334607641.394660
+e334607641.795137
+r1
+xCompileC
+xbuild/EnvatoNotifier.build/Debug/EnvatoNotifier.build/Objects-normal/x86_64/main.o
+x/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@65"Compile /Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/main.m334607641#334607641#0(0"0(0#0#57"/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/main.m4300882208#1654"    cd /Users/pablo/Desktop/EnvatoNotifier    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/EnvatoNotifier-generated-files.hmap -I/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/EnvatoNotifier-own-target-headers.hmap -I/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/EnvatoNotifier-all-target-headers.hmap -iquote /Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/EnvatoNotifier-project-headers.hmap -F/Users/pablo/Desktop/EnvatoNotifier/build/Debug -F/Users/pablo/Desktop/EnvatoNotifier -I/Users/pablo/Desktop/EnvatoNotifier/build/Debug/include -I/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/DerivedSources/x86_64 -I/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/DerivedSources -include /var/folders/3o/3ofwnT8-G6iVzw9zxBX55++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EnvatoNotifier-Prefix-ejtsdxpbwqjjxoezkfvanelubsah/EnvatoNotifier-Prefix.pch -c /Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/main.m -o /Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/en.lproj/MainMenu.xib
+s334607641.883724
+e334607643.534220
+r1
+xCompileXIB
+x/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/en.lproj/MainMenu.xib
+lSLF07#2@47"CompileXIB EnvatoNotifier/en.lproj/MainMenu.xib334607641#334607643#0(0"0(0#0#72"/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/en.lproj/MainMenu.xib4300882208#330"    cd /Users/pablo/Desktop/EnvatoNotifier    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Resources/en.lproj/MainMenu.nib /Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/en.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Resources/en.lproj/InfoPlist.strings EnvatoNotifier/en.lproj/InfoPlist.strings
+s334607641.881655
+e334607643.232336
+r1
+xCopyStringsFile
+x/Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Resources/en.lproj/InfoPlist.strings
+xEnvatoNotifier/en.lproj/InfoPlist.strings
+lSLF07#2@46"Copy EnvatoNotifier/en.lproj/InfoPlist.strings334607641#334607643#0(0"0(0#0#77"/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/en.lproj/InfoPlist.strings4300882208#371"    cd /Users/pablo/Desktop/EnvatoNotifier    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 EnvatoNotifier/en.lproj/InfoPlist.strings --outdir /Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Resources/en.lproj0#
+
+CCpResource "build/Debug/EnvatoNotifier.app/Contents/Resources/Growl Registration Ticket.growlRegDict" "EnvatoNotifier/Growl Registration Ticket.growlRegDict"
+s334607641.884565
+e334607642.150869
+r1
+xCpResource
+xbuild/Debug/EnvatoNotifier.app/Contents/Resources/Growl Registration Ticket.growlRegDict
+xEnvatoNotifier/Growl Registration Ticket.growlRegDict
+lSLF07#2@58"Copy EnvatoNotifier/Growl Registration Ticket.growlRegDict334607641#334607642#0(0"0(0#0#89"/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/Growl Registration Ticket.growlRegDict4300882208#369"    cd /Users/pablo/Desktop/EnvatoNotifier    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/Growl Registration Ticket.growlRegDict" /Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Resources0#
+
+CCpResource build/Debug/EnvatoNotifier.app/Contents/Resources/en.lproj/Credits.rtf EnvatoNotifier/en.lproj/Credits.rtf
+s334607641.882899
+e334607642.150115
+r1
+xCpResource
+xbuild/Debug/EnvatoNotifier.app/Contents/Resources/en.lproj/Credits.rtf
+xEnvatoNotifier/en.lproj/Credits.rtf
+lSLF07#2@40"Copy EnvatoNotifier/en.lproj/Credits.rtf334607641#334607642#0(0"0(0#0#71"/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/en.lproj/Credits.rtf4300882208#358"    cd /Users/pablo/Desktop/EnvatoNotifier    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/en.lproj/Credits.rtf /Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Resources/en.lproj0#
+
+CLd /Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/MacOS/EnvatoNotifier normal x86_64
+r0
+
+CPBXCp build/Debug/EnvatoNotifier.app/Contents/Frameworks/Growl.framework Growl.framework
+s334607643.535542
+e334607643.654934
+r1
+xPBXCp
+xbuild/Debug/EnvatoNotifier.app/Contents/Frameworks/Growl.framework
+xGrowl.framework
+lSLF07#2@20"Copy Growl.framework334607643#334607643#0(0"0(0#0#51"/Users/pablo/Desktop/EnvatoNotifier/Growl.framework4300882208#330"    cd /Users/pablo/Desktop/EnvatoNotifier    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pablo/Desktop/EnvatoNotifier/Growl.framework /Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Frameworks0#
+
+CPBXCp build/Debug/EnvatoNotifier.app/Contents/Frameworks/YAJL.framework YAJL.framework
+s334607643.534385
+e334607643.657209
+r1
+xPBXCp
+xbuild/Debug/EnvatoNotifier.app/Contents/Frameworks/YAJL.framework
+xYAJL.framework
+lSLF07#2@19"Copy YAJL.framework334607643#334607643#0(0"0(0#0#50"/Users/pablo/Desktop/EnvatoNotifier/YAJL.framework4300882208#329"    cd /Users/pablo/Desktop/EnvatoNotifier    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pablo/Desktop/EnvatoNotifier/YAJL.framework /Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Frameworks0#
+
+CProcessInfoPlistFile /Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Info.plist EnvatoNotifier/EnvatoNotifier-Info.plist
+s334607639.487544
+e334607639.528916
+r1
+xProcessInfoPlistFile
+x/Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Info.plist
+xEnvatoNotifier/EnvatoNotifier-Info.plist
+lSLF07#2@48"Process EnvatoNotifier/EnvatoNotifier-Info.plist334607639#334607639#0(0"0(0#0#76"/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoNotifier-Info.plist33214519702782000#337"    cd /Users/pablo/Desktop/EnvatoNotifier    builtin-infoPlistUtility EnvatoNotifier/EnvatoNotifier-Info.plist -genpkginfo /Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/3o/3ofwnT8-G6iVzw9zxBX55++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EnvatoNotifier-Prefix-ejtsdxpbwqjjxoezkfvanelubsah/EnvatoNotifier-Prefix.pch.pth EnvatoNotifier/EnvatoNotifier-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s334607639.529380
+e334607641.394426
+r1
+xProcessPCH
+x/var/folders/3o/3ofwnT8-G6iVzw9zxBX55++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EnvatoNotifier-Prefix-ejtsdxpbwqjjxoezkfvanelubsah/EnvatoNotifier-Prefix.pch.pth
+xEnvatoNotifier/EnvatoNotifier-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@51"Precompile EnvatoNotifier/EnvatoNotifier-Prefix.pch334607639#334607641#0(0"0(0#0#76"/Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoNotifier-Prefix.pch4300882208#1556"    cd /Users/pablo/Desktop/EnvatoNotifier    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/EnvatoNotifier-generated-files.hmap -I/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/EnvatoNotifier-own-target-headers.hmap -I/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/EnvatoNotifier-all-target-headers.hmap -iquote /Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/EnvatoNotifier-project-headers.hmap -F/Users/pablo/Desktop/EnvatoNotifier/build/Debug -F/Users/pablo/Desktop/EnvatoNotifier -I/Users/pablo/Desktop/EnvatoNotifier/build/Debug/include -I/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/DerivedSources/x86_64 -I/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/DerivedSources -c /Users/pablo/Desktop/EnvatoNotifier/EnvatoNotifier/EnvatoNotifier-Prefix.pch -o /var/folders/3o/3ofwnT8-G6iVzw9zxBX55++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/EnvatoNotifier-Prefix-ejtsdxpbwqjjxoezkfvanelubsah/EnvatoNotifier-Prefix.pch.pth0#
+
+CTouch /Users/pablo/Desktop/EnvatoNotifier/build/Debug/EnvatoNotifier.app
+r0
+

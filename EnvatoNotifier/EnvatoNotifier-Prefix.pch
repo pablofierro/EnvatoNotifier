@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'EnvatoNotifier' target in the 'EnvatoNotifier' project
+//
+
+#ifdef __OBJC__
+ #import <Cocoa/Cocoa.h>
+#endif
