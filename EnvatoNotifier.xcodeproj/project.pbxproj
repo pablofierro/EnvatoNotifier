@@ -1,0 +1,331 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6E1AAABF13EE05E600E3D7ED /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E1AAABE13EE05E600E3D7ED /* Cocoa.framework */; };
+		6E1AAAC913EE05E600E3D7ED /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6E1AAAC713EE05E600E3D7ED /* InfoPlist.strings */; };
+		6E1AAACC13EE05E600E3D7ED /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AAACB13EE05E600E3D7ED /* main.m */; };
+		6E1AAACF13EE05E600E3D7ED /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 6E1AAACD13EE05E600E3D7ED /* Credits.rtf */; };
+		6E1AAAD213EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */; };
+		6E1AAAD513EE05E700E3D7ED /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E1AAAD313EE05E700E3D7ED /* MainMenu.xib */; };
+		6E3D03F513F0E0A600A2F14A /* EnvatoAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E3D03F413F0E0A600A2F14A /* EnvatoAPI.m */; };
+		6E3D03F713F0E0DB00A2F14A /* YAJL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E3D03F613F0E0DB00A2F14A /* YAJL.framework */; };
+		6E3D03F913F0E0F900A2F14A /* YAJL.framework in Copy Files */ = {isa = PBXBuildFile; fileRef = 6E3D03F613F0E0DB00A2F14A /* YAJL.framework */; };
+		6E532A0413F0F47000C67C69 /* Growl.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E532A0313F0F47000C67C69 /* Growl.framework */; };
+		6E532A0513F0F48600C67C69 /* Growl.framework in Copy Files */ = {isa = PBXBuildFile; fileRef = 6E532A0313F0F47000C67C69 /* Growl.framework */; };
+		6E532A0F13F0F50500C67C69 /* Growl Registration Ticket.growlRegDict in Resources */ = {isa = PBXBuildFile; fileRef = 6E532A0E13F0F50500C67C69 /* Growl Registration Ticket.growlRegDict */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		6E3D03F813F0E0F200A2F14A /* Copy Files */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				6E3D03F913F0E0F900A2F14A /* YAJL.framework in Copy Files */,
+				6E532A0513F0F48600C67C69 /* Growl.framework in Copy Files */,
+			);
+			name = "Copy Files";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		6E1AAABA13EE05E600E3D7ED /* EnvatoNotifier.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EnvatoNotifier.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6E1AAABE13EE05E600E3D7ED /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		6E1AAAC113EE05E600E3D7ED /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		6E1AAAC213EE05E600E3D7ED /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		6E1AAAC313EE05E600E3D7ED /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		6E1AAAC613EE05E600E3D7ED /* EnvatoNotifier-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "EnvatoNotifier-Info.plist"; sourceTree = "<group>"; };
+		6E1AAAC813EE05E600E3D7ED /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		6E1AAACA13EE05E600E3D7ED /* EnvatoNotifier-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "EnvatoNotifier-Prefix.pch"; sourceTree = "<group>"; };
+		6E1AAACB13EE05E600E3D7ED /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		6E1AAACE13EE05E600E3D7ED /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		6E1AAAD013EE05E600E3D7ED /* EnvatoNotifierAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EnvatoNotifierAppDelegate.h; sourceTree = "<group>"; };
+		6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EnvatoNotifierAppDelegate.m; sourceTree = "<group>"; };
+		6E1AAAD413EE05E700E3D7ED /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		6E3D03F313F0E0A600A2F14A /* EnvatoAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EnvatoAPI.h; sourceTree = "<group>"; };
+		6E3D03F413F0E0A600A2F14A /* EnvatoAPI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EnvatoAPI.m; sourceTree = "<group>"; };
+		6E3D03F613F0E0DB00A2F14A /* YAJL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = YAJL.framework; sourceTree = "<group>"; };
+		6E532A0313F0F47000C67C69 /* Growl.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Growl.framework; sourceTree = "<group>"; };
+		6E532A0E13F0F50500C67C69 /* Growl Registration Ticket.growlRegDict */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "Growl Registration Ticket.growlRegDict"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6E1AAAB713EE05E600E3D7ED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6E1AAABF13EE05E600E3D7ED /* Cocoa.framework in Frameworks */,
+				6E3D03F713F0E0DB00A2F14A /* YAJL.framework in Frameworks */,
+				6E532A0413F0F47000C67C69 /* Growl.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6E1AAAAF13EE05E600E3D7ED = {
+			isa = PBXGroup;
+			children = (
+				6E1AAAC413EE05E600E3D7ED /* EnvatoNotifier */,
+				6E1AAABD13EE05E600E3D7ED /* Frameworks */,
+				6E1AAABB13EE05E600E3D7ED /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6E1AAABB13EE05E600E3D7ED /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6E1AAABA13EE05E600E3D7ED /* EnvatoNotifier.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6E1AAABD13EE05E600E3D7ED /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6E532A0313F0F47000C67C69 /* Growl.framework */,
+				6E3D03F613F0E0DB00A2F14A /* YAJL.framework */,
+				6E1AAABE13EE05E600E3D7ED /* Cocoa.framework */,
+				6E1AAAC013EE05E600E3D7ED /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6E1AAAC013EE05E600E3D7ED /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6E1AAAC113EE05E600E3D7ED /* AppKit.framework */,
+				6E1AAAC213EE05E600E3D7ED /* CoreData.framework */,
+				6E1AAAC313EE05E600E3D7ED /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		6E1AAAC413EE05E600E3D7ED /* EnvatoNotifier */ = {
+			isa = PBXGroup;
+			children = (
+				6E3D03F313F0E0A600A2F14A /* EnvatoAPI.h */,
+				6E3D03F413F0E0A600A2F14A /* EnvatoAPI.m */,
+				6E1AAAD013EE05E600E3D7ED /* EnvatoNotifierAppDelegate.h */,
+				6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */,
+				6E1AAAD313EE05E700E3D7ED /* MainMenu.xib */,
+				6E1AAAC513EE05E600E3D7ED /* Supporting Files */,
+			);
+			path = EnvatoNotifier;
+			sourceTree = "<group>";
+		};
+		6E1AAAC513EE05E600E3D7ED /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6E532A0E13F0F50500C67C69 /* Growl Registration Ticket.growlRegDict */,
+				6E1AAAC613EE05E600E3D7ED /* EnvatoNotifier-Info.plist */,
+				6E1AAAC713EE05E600E3D7ED /* InfoPlist.strings */,
+				6E1AAACA13EE05E600E3D7ED /* EnvatoNotifier-Prefix.pch */,
+				6E1AAACB13EE05E600E3D7ED /* main.m */,
+				6E1AAACD13EE05E600E3D7ED /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6E1AAAB913EE05E600E3D7ED /* EnvatoNotifier */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6E1AAAD813EE05E700E3D7ED /* Build configuration list for PBXNativeTarget "EnvatoNotifier" */;
+			buildPhases = (
+				6E1AAAB613EE05E600E3D7ED /* Sources */,
+				6E1AAAB713EE05E600E3D7ED /* Frameworks */,
+				6E1AAAB813EE05E600E3D7ED /* Resources */,
+				6E3D03F813F0E0F200A2F14A /* Copy Files */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = EnvatoNotifier;
+			productName = EnvatoNotifier;
+			productReference = 6E1AAABA13EE05E600E3D7ED /* EnvatoNotifier.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6E1AAAB113EE05E600E3D7ED /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 6E1AAAB413EE05E600E3D7ED /* Build configuration list for PBXProject "EnvatoNotifier" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 6E1AAAAF13EE05E600E3D7ED;
+			productRefGroup = 6E1AAABB13EE05E600E3D7ED /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6E1AAAB913EE05E600E3D7ED /* EnvatoNotifier */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6E1AAAB813EE05E600E3D7ED /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6E1AAAC913EE05E600E3D7ED /* InfoPlist.strings in Resources */,
+				6E1AAACF13EE05E600E3D7ED /* Credits.rtf in Resources */,
+				6E1AAAD513EE05E700E3D7ED /* MainMenu.xib in Resources */,
+				6E532A0F13F0F50500C67C69 /* Growl Registration Ticket.growlRegDict in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6E1AAAB613EE05E600E3D7ED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6E1AAACC13EE05E600E3D7ED /* main.m in Sources */,
+				6E1AAAD213EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m in Sources */,
+				6E3D03F513F0E0A600A2F14A /* EnvatoAPI.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		6E1AAAC713EE05E600E3D7ED /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6E1AAAC813EE05E600E3D7ED /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		6E1AAACD13EE05E600E3D7ED /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6E1AAACE13EE05E600E3D7ED /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		6E1AAAD313EE05E700E3D7ED /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6E1AAAD413EE05E700E3D7ED /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		6E1AAAD613EE05E700E3D7ED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		6E1AAAD713EE05E700E3D7ED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		6E1AAAD913EE05E700E3D7ED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "EnvatoNotifier/EnvatoNotifier-Prefix.pch";
+				INFOPLIST_FILE = "EnvatoNotifier/EnvatoNotifier-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = " @loader_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		6E1AAADA13EE05E700E3D7ED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "EnvatoNotifier/EnvatoNotifier-Prefix.pch";
+				INFOPLIST_FILE = "EnvatoNotifier/EnvatoNotifier-Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = " @loader_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6E1AAAB413EE05E600E3D7ED /* Build configuration list for PBXProject "EnvatoNotifier" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6E1AAAD613EE05E700E3D7ED /* Debug */,
+				6E1AAAD713EE05E700E3D7ED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6E1AAAD813EE05E700E3D7ED /* Build configuration list for PBXNativeTarget "EnvatoNotifier" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6E1AAAD913EE05E700E3D7ED /* Debug */,
+				6E1AAADA13EE05E700E3D7ED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6E1AAAB113EE05E600E3D7ED /* Project object */;
+}

@@ -1,0 +1,1300 @@
+// !$*UTF8*$!
+{
+	6E1AAAB113EE05E600E3D7ED /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6E32049B13EF9A2300038F4D /* EnvatoNotifier */;
+		activeTarget = 6E1AAAB913EE05E600E3D7ED /* EnvatoNotifier */;
+		breakpoints = (
+		);
+		codeSenseManager = 6E3204A913EF9A2400038F4D /* Code sense */;
+		executables = (
+			6E32049B13EF9A2300038F4D /* EnvatoNotifier */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					885,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					948,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Target_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					973,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					1074,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					741,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1193,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 334606940;
+			PBXWorkspaceStateSaveDate = 334606940;
+		};
+		perUserProjectItems = {
+			6E30C4A913EFAA6D003E45E3 = 6E30C4A913EFAA6D003E45E3 /* PBXTextBookmark */;
+			6E30C4AA13EFAA6D003E45E3 = 6E30C4AA13EFAA6D003E45E3 /* PBXTextBookmark */;
+			6E30C4B713EFAAC4003E45E3 = 6E30C4B713EFAAC4003E45E3 /* PBXTextBookmark */;
+			6E80342C13F1B25F001FE266 /* PBXTextBookmark */ = 6E80342C13F1B25F001FE266 /* PBXTextBookmark */;
+			6E80343013F1B4F0001FE266 /* PBXTextBookmark */ = 6E80343013F1B4F0001FE266 /* PBXTextBookmark */;
+			6E80343B13F1B531001FE266 /* PBXTextBookmark */ = 6E80343B13F1B531001FE266 /* PBXTextBookmark */;
+			6E80343C13F1B531001FE266 /* PBXTextBookmark */ = 6E80343C13F1B531001FE266 /* PBXTextBookmark */;
+			6E80344F13F1B582001FE266 /* PBXTextBookmark */ = 6E80344F13F1B582001FE266 /* PBXTextBookmark */;
+			6E80345713F1B5A1001FE266 /* PBXTextBookmark */ = 6E80345713F1B5A1001FE266 /* PBXTextBookmark */;
+			6E80345C13F1B604001FE266 /* PBXTextBookmark */ = 6E80345C13F1B604001FE266 /* PBXTextBookmark */;
+			6E80346513F1B66C001FE266 /* PBXTextBookmark */ = 6E80346513F1B66C001FE266 /* PBXTextBookmark */;
+			6E80346B13F1B69B001FE266 /* PBXTextBookmark */ = 6E80346B13F1B69B001FE266 /* PBXTextBookmark */;
+			6E80347113F1B709001FE266 /* PBXTextBookmark */ = 6E80347113F1B709001FE266 /* PBXTextBookmark */;
+			6E80347513F1B76A001FE266 /* PBXTextBookmark */ = 6E80347513F1B76A001FE266 /* PBXTextBookmark */;
+			6E80347913F1B7B6001FE266 /* PBXTextBookmark */ = 6E80347913F1B7B6001FE266 /* PBXTextBookmark */;
+			6E80347D13F1B82E001FE266 /* PBXTextBookmark */ = 6E80347D13F1B82E001FE266 /* PBXTextBookmark */;
+			6E80348313F1B84E001FE266 /* PBXTextBookmark */ = 6E80348313F1B84E001FE266 /* PBXTextBookmark */;
+			6E80348513F1B897001FE266 /* PBXTextBookmark */ = 6E80348513F1B897001FE266 /* PBXTextBookmark */;
+			6E80348813F1B8AD001FE266 /* PBXTextBookmark */ = 6E80348813F1B8AD001FE266 /* PBXTextBookmark */;
+			6E80348B13F1B8D9001FE266 /* PBXTextBookmark */ = 6E80348B13F1B8D9001FE266 /* PBXTextBookmark */;
+			6E80348F13F1B8EA001FE266 /* PBXTextBookmark */ = 6E80348F13F1B8EA001FE266 /* PBXTextBookmark */;
+			6E80349113F1B8FC001FE266 /* PBXTextBookmark */ = 6E80349113F1B8FC001FE266 /* PBXTextBookmark */;
+			6E80349413F1B906001FE266 /* PBXTextBookmark */ = 6E80349413F1B906001FE266 /* PBXTextBookmark */;
+			6E80349813F1B91A001FE266 /* PBXTextBookmark */ = 6E80349813F1B91A001FE266 /* PBXTextBookmark */;
+			6E80349C13F1B92E001FE266 /* PBXTextBookmark */ = 6E80349C13F1B92E001FE266 /* PBXTextBookmark */;
+			6E8034A013F1B946001FE266 /* PBXTextBookmark */ = 6E8034A013F1B946001FE266 /* PBXTextBookmark */;
+			6E8034A413F1B955001FE266 /* PBXTextBookmark */ = 6E8034A413F1B955001FE266 /* PBXTextBookmark */;
+			6E8034A813F1B971001FE266 /* PBXTextBookmark */ = 6E8034A813F1B971001FE266 /* PBXTextBookmark */;
+			6E8034AC13F1B98C001FE266 /* PBXTextBookmark */ = 6E8034AC13F1B98C001FE266 /* PBXTextBookmark */;
+			6E8034B013F1B99A001FE266 /* PBXTextBookmark */ = 6E8034B013F1B99A001FE266 /* PBXTextBookmark */;
+			6E8034B413F1B9A8001FE266 /* PBXTextBookmark */ = 6E8034B413F1B9A8001FE266 /* PBXTextBookmark */;
+			6E8034B613F1B9F1001FE266 /* PBXTextBookmark */ = 6E8034B613F1B9F1001FE266 /* PBXTextBookmark */;
+			6E8034B913F1BA6C001FE266 /* PBXTextBookmark */ = 6E8034B913F1BA6C001FE266 /* PBXTextBookmark */;
+			6E8034BD13F1BA7B001FE266 /* PBXTextBookmark */ = 6E8034BD13F1BA7B001FE266 /* PBXTextBookmark */;
+			6E8034C113F1BA88001FE266 /* PBXTextBookmark */ = 6E8034C113F1BA88001FE266 /* PBXTextBookmark */;
+			6E8034C513F1BAB7001FE266 /* PBXTextBookmark */ = 6E8034C513F1BAB7001FE266 /* PBXTextBookmark */;
+			6E8034C913F1BB41001FE266 /* PBXTextBookmark */ = 6E8034C913F1BB41001FE266 /* PBXTextBookmark */;
+			6E8034CD13F1BB4A001FE266 /* PBXTextBookmark */ = 6E8034CD13F1BB4A001FE266 /* PBXTextBookmark */;
+			6E8034D113F1BB5D001FE266 /* PBXTextBookmark */ = 6E8034D113F1BB5D001FE266 /* PBXTextBookmark */;
+			6E8034D513F1BB6B001FE266 /* PBXTextBookmark */ = 6E8034D513F1BB6B001FE266 /* PBXTextBookmark */;
+			6E8034D913F1BBAE001FE266 /* PBXTextBookmark */ = 6E8034D913F1BBAE001FE266 /* PBXTextBookmark */;
+			6E8034DD13F1BBB5001FE266 /* PBXTextBookmark */ = 6E8034DD13F1BBB5001FE266 /* PBXTextBookmark */;
+			6E8034E113F1BBEE001FE266 /* PBXTextBookmark */ = 6E8034E113F1BBEE001FE266 /* PBXTextBookmark */;
+			6E8034E313F1BCA1001FE266 /* PBXTextBookmark */ = 6E8034E313F1BCA1001FE266 /* PBXTextBookmark */;
+			6E8034EE13F1BD3F001FE266 /* PBXTextBookmark */ = 6E8034EE13F1BD3F001FE266 /* PBXTextBookmark */;
+			6E8034EF13F1BD3F001FE266 /* PBXTextBookmark */ = 6E8034EF13F1BD3F001FE266 /* PBXTextBookmark */;
+			6E8034F513F1BD67001FE266 /* PBXTextBookmark */ = 6E8034F513F1BD67001FE266 /* PBXTextBookmark */;
+			6E8034F613F1BD67001FE266 /* PBXTextBookmark */ = 6E8034F613F1BD67001FE266 /* PBXTextBookmark */;
+			6E8034FC13F1BD7C001FE266 /* PBXTextBookmark */ = 6E8034FC13F1BD7C001FE266 /* PBXTextBookmark */;
+			6E80350413F1BDCB001FE266 /* PBXTextBookmark */ = 6E80350413F1BDCB001FE266 /* PBXTextBookmark */;
+			6E80350513F1BDCB001FE266 /* PBXTextBookmark */ = 6E80350513F1BDCB001FE266 /* PBXTextBookmark */;
+			6E80350913F1BE05001FE266 /* PBXTextBookmark */ = 6E80350913F1BE05001FE266 /* PBXTextBookmark */;
+			6E80350B13F1BE91001FE266 /* PBXTextBookmark */ = 6E80350B13F1BE91001FE266 /* PBXTextBookmark */;
+			6E80350E13F1BECB001FE266 /* PBXTextBookmark */ = 6E80350E13F1BECB001FE266 /* PBXTextBookmark */;
+			6E80351213F1BEEC001FE266 /* PBXTextBookmark */ = 6E80351213F1BEEC001FE266 /* PBXTextBookmark */;
+			6E80351613F1BEFB001FE266 /* PBXTextBookmark */ = 6E80351613F1BEFB001FE266 /* PBXTextBookmark */;
+			6E80351A13F1C163001FE266 /* PBXTextBookmark */ = 6E80351A13F1C163001FE266 /* PBXTextBookmark */;
+			6E80351B13F1C163001FE266 /* PBXTextBookmark */ = 6E80351B13F1C163001FE266 /* PBXTextBookmark */;
+			6E80351C13F1C163001FE266 /* PBXTextBookmark */ = 6E80351C13F1C163001FE266 /* PBXTextBookmark */;
+			6E80351D13F1C163001FE266 /* PBXTextBookmark */ = 6E80351D13F1C163001FE266 /* PBXTextBookmark */;
+			6E80351E13F1C163001FE266 /* PBXTextBookmark */ = 6E80351E13F1C163001FE266 /* PBXTextBookmark */;
+			6E80352513F1C21C001FE266 /* PBXTextBookmark */ = 6E80352513F1C21C001FE266 /* PBXTextBookmark */;
+			6E80352D13F1C29A001FE266 /* XCBuildMessageTextBookmark */ = 6E80352D13F1C29A001FE266 /* XCBuildMessageTextBookmark */;
+			6E80352E13F1C29A001FE266 /* PBXTextBookmark */ = 6E80352E13F1C29A001FE266 /* PBXTextBookmark */;
+			6E80353513F1C2D6001FE266 /* XCBuildMessageTextBookmark */ = 6E80353513F1C2D6001FE266 /* XCBuildMessageTextBookmark */;
+			6E80353613F1C2D6001FE266 /* PBXTextBookmark */ = 6E80353613F1C2D6001FE266 /* PBXTextBookmark */;
+			6E80354013F1C3C4001FE266 /* XCBuildMessageTextBookmark */ = 6E80354013F1C3C4001FE266 /* XCBuildMessageTextBookmark */;
+			6E80354113F1C3C4001FE266 /* PBXTextBookmark */ = 6E80354113F1C3C4001FE266 /* PBXTextBookmark */;
+			6E80355013F1C448001FE266 /* XCBuildMessageTextBookmark */ = 6E80355013F1C448001FE266 /* XCBuildMessageTextBookmark */;
+			6E80355113F1C448001FE266 /* PBXTextBookmark */ = 6E80355113F1C448001FE266 /* PBXTextBookmark */;
+			6E80355713F1C490001FE266 /* PBXTextBookmark */ = 6E80355713F1C490001FE266 /* PBXTextBookmark */;
+			6E80356513F1C4E9001FE266 /* PBXTextBookmark */ = 6E80356513F1C4E9001FE266 /* PBXTextBookmark */;
+			6E80356713F1C565001FE266 /* PBXTextBookmark */ = 6E80356713F1C565001FE266 /* PBXTextBookmark */;
+			6E80356E13F1C5B9001FE266 /* PBXTextBookmark */ = 6E80356E13F1C5B9001FE266 /* PBXTextBookmark */;
+			6E80357413F1C63B001FE266 /* PBXTextBookmark */ = 6E80357413F1C63B001FE266 /* PBXTextBookmark */;
+			6E80357813F1C646001FE266 /* PBXTextBookmark */ = 6E80357813F1C646001FE266 /* PBXTextBookmark */;
+			6E80357E13F1C6BB001FE266 /* PBXTextBookmark */ = 6E80357E13F1C6BB001FE266 /* PBXTextBookmark */;
+			6E80358213F1C6E4001FE266 /* PBXTextBookmark */ = 6E80358213F1C6E4001FE266 /* PBXTextBookmark */;
+			6E80358413F1C73F001FE266 /* PBXTextBookmark */ = 6E80358413F1C73F001FE266 /* PBXTextBookmark */;
+			6E80358B13F1C7C9001FE266 /* PBXTextBookmark */ = 6E80358B13F1C7C9001FE266 /* PBXTextBookmark */;
+			6E80358C13F1C7C9001FE266 /* PBXTextBookmark */ = 6E80358C13F1C7C9001FE266 /* PBXTextBookmark */;
+			6E80358D13F1C7C9001FE266 /* PBXTextBookmark */ = 6E80358D13F1C7C9001FE266 /* PBXTextBookmark */;
+			6E80358E13F1C7C9001FE266 /* PBXTextBookmark */ = 6E80358E13F1C7C9001FE266 /* PBXTextBookmark */;
+			6E80359213F1C8E4001FE266 /* PBXTextBookmark */ = 6E80359213F1C8E4001FE266 /* PBXTextBookmark */;
+			6E80359313F1C8E4001FE266 /* PBXTextBookmark */ = 6E80359313F1C8E4001FE266 /* PBXTextBookmark */;
+			6E80359413F1C8E4001FE266 /* PBXTextBookmark */ = 6E80359413F1C8E4001FE266 /* PBXTextBookmark */;
+			6E80359513F1C8E4001FE266 /* PBXTextBookmark */ = 6E80359513F1C8E4001FE266 /* PBXTextBookmark */;
+			6E80359613F1C8E4001FE266 /* PBXTextBookmark */ = 6E80359613F1C8E4001FE266 /* PBXTextBookmark */;
+			6E80359813F1C904001FE266 /* PBXTextBookmark */ = 6E80359813F1C904001FE266 /* PBXTextBookmark */;
+			6E80359913F1C904001FE266 /* PBXTextBookmark */ = 6E80359913F1C904001FE266 /* PBXTextBookmark */;
+			6E80359A13F1C904001FE266 /* PBXTextBookmark */ = 6E80359A13F1C904001FE266 /* PBXTextBookmark */;
+			6E80359F13F1C94E001FE266 /* PBXTextBookmark */ = 6E80359F13F1C94E001FE266 /* PBXTextBookmark */;
+			6E8035A313F1C970001FE266 /* PBXTextBookmark */ = 6E8035A313F1C970001FE266 /* PBXTextBookmark */;
+			6E8035A413F1C976001FE266 /* PBXTextBookmark */ = 6E8035A413F1C976001FE266 /* PBXTextBookmark */;
+			6E8035B513F1CCFF001FE266 /* PBXTextBookmark */ = 6E8035B513F1CCFF001FE266 /* PBXTextBookmark */;
+			6E8035B613F1CCFF001FE266 /* PBXTextBookmark */ = 6E8035B613F1CCFF001FE266 /* PBXTextBookmark */;
+			6E8035B813F1CCFF001FE266 /* PBXTextBookmark */ = 6E8035B813F1CCFF001FE266 /* PBXTextBookmark */;
+			6E8035B913F1CCFF001FE266 /* PBXTextBookmark */ = 6E8035B913F1CCFF001FE266 /* PBXTextBookmark */;
+			6E8035BA13F1CCFF001FE266 /* PBXTextBookmark */ = 6E8035BA13F1CCFF001FE266 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6E3204A813EF9A2400038F4D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6E1AAAB913EE05E600E3D7ED /* EnvatoNotifier */ = {
+		activeExec = 0;
+		executables = (
+			6E32049B13EF9A2300038F4D /* EnvatoNotifier */,
+		);
+	};
+	6E1AAACA13EE05E600E3D7ED /* EnvatoNotifier-Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1238, 672}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 156}";
+		};
+	};
+	6E1AAAD013EE05E600E3D7ED /* EnvatoNotifierAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1151, 861}}";
+			sepNavSelRange = "{1105, 0}";
+			sepNavVisRange = "{0, 1105}";
+		};
+	};
+	6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1151, 2457}}";
+			sepNavSelRange = "{4890, 0}";
+			sepNavVisRange = "{2856, 2519}";
+			sepNavWindowFrame = "{{15, 52}, {1227, 971}}";
+		};
+	};
+	6E30C4A913EFAA6D003E45E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD013EE05E600E3D7ED /* EnvatoNotifierAppDelegate.h */;
+		name = "EnvatoNotifierAppDelegate.h: 26";
+		rLen = 0;
+		rLoc = 648;
+		rType = 0;
+		vrLen = 856;
+		vrLoc = 0;
+	};
+	6E30C4AA13EFAA6D003E45E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ']'";
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		rLen = 1;
+		rLoc = 58;
+		rType = 1;
+	};
+	6E30C4B713EFAAC4003E45E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 48";
+		rLen = 0;
+		rLoc = 1361;
+		rType = 0;
+		vrLen = 1582;
+		vrLoc = 386;
+	};
+	6E32049B13EF9A2300038F4D /* EnvatoNotifier */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = EnvatoNotifier;
+		savedGlobals = {
+		};
+		showTypeColumn = 1;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	6E3204A813EF9A2400038F4D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6E3204A913EF9A2400038F4D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6E3D03F313F0E0A600A2F14A /* EnvatoAPI.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {979, 838}}";
+			sepNavSelRange = "{214, 12}";
+			sepNavVisRange = "{0, 419}";
+		};
+	};
+	6E3D03F413F0E0A600A2F14A /* EnvatoAPI.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {979, 861}}";
+			sepNavSelRange = "{902, 0}";
+			sepNavVisRange = "{0, 1529}";
+		};
+	};
+	6E80342C13F1B25F001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 49";
+		rLen = 0;
+		rLoc = 1361;
+		rType = 0;
+		vrLen = 1692;
+		vrLoc = 335;
+	};
+	6E80343013F1B4F0001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 140";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 1244;
+		vrLoc = 3713;
+	};
+	6E80343B13F1B531001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 138";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 1265;
+		vrLoc = 3579;
+	};
+	6E80343C13F1B531001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 138";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 1299;
+		vrLoc = 3542;
+	};
+	6E80344F13F1B582001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 137";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 1178;
+		vrLoc = 3819;
+	};
+	6E80345713F1B5A1001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 137";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 1178;
+		vrLoc = 3819;
+	};
+	6E80345C13F1B604001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 134";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 1275;
+		vrLoc = 3613;
+	};
+	6E80346513F1B66C001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 154";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 1197;
+		vrLoc = 4313;
+	};
+	6E80346B13F1B69B001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 131";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2131;
+		vrLoc = 2816;
+	};
+	6E80347113F1B709001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 133";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2138;
+		vrLoc = 2816;
+	};
+	6E80347513F1B76A001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 131";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2135;
+		vrLoc = 2816;
+	};
+	6E80347913F1B7B6001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 129";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2081;
+		vrLoc = 2816;
+	};
+	6E80347D13F1B82E001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 130";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2070;
+		vrLoc = 2816;
+	};
+	6E80348313F1B84E001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 131";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2099;
+		vrLoc = 2816;
+	};
+	6E80348513F1B897001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 131";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2144;
+		vrLoc = 2816;
+	};
+	6E80348813F1B8AD001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 131";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2152;
+		vrLoc = 2816;
+	};
+	6E80348B13F1B8D9001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 131";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2152;
+		vrLoc = 2816;
+	};
+	6E80348F13F1B8EA001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 136";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2125;
+		vrLoc = 2816;
+	};
+	6E80349113F1B8FC001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 130";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2151;
+		vrLoc = 2816;
+	};
+	6E80349413F1B906001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 136";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2150;
+		vrLoc = 2816;
+	};
+	6E80349813F1B91A001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 132";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2154;
+		vrLoc = 2816;
+	};
+	6E80349C13F1B92E001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 136";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2154;
+		vrLoc = 2816;
+	};
+	6E8034A013F1B946001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 130";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2158;
+		vrLoc = 2816;
+	};
+	6E8034A413F1B955001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 130";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2159;
+		vrLoc = 2816;
+	};
+	6E8034A813F1B971001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 130";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2158;
+		vrLoc = 2816;
+	};
+	6E8034AC13F1B98C001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 136";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2157;
+		vrLoc = 2816;
+	};
+	6E8034B013F1B99A001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 136";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2157;
+		vrLoc = 2816;
+	};
+	6E8034B413F1B9A8001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 132";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2153;
+		vrLoc = 2816;
+	};
+	6E8034B613F1B9F1001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 130";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2211;
+		vrLoc = 2816;
+	};
+	6E8034B913F1BA6C001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 132";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2215;
+		vrLoc = 2816;
+	};
+	6E8034BD13F1BA7B001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 130";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2220;
+		vrLoc = 2816;
+	};
+	6E8034C113F1BA88001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 130";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2220;
+		vrLoc = 2816;
+	};
+	6E8034C513F1BAB7001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 130";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2221;
+		vrLoc = 2816;
+	};
+	6E8034C913F1BB41001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 130";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2215;
+		vrLoc = 2816;
+	};
+	6E8034CD13F1BB4A001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 137";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2209;
+		vrLoc = 2816;
+	};
+	6E8034D113F1BB5D001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 126";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2215;
+		vrLoc = 2816;
+	};
+	6E8034D513F1BB6B001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 130";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2220;
+		vrLoc = 2816;
+	};
+	6E8034D913F1BBAE001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 131";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2216;
+		vrLoc = 2816;
+	};
+	6E8034DD13F1BBB5001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 131";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2216;
+		vrLoc = 2816;
+	};
+	6E8034E113F1BBEE001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 130";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2195;
+		vrLoc = 2816;
+	};
+	6E8034E313F1BCA1001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 132";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2243;
+		vrLoc = 2816;
+	};
+	6E8034EE13F1BD3F001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 154";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 1883;
+		vrLoc = 3243;
+	};
+	6E8034EF13F1BD3F001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 146";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 1819;
+		vrLoc = 3238;
+	};
+	6E8034F513F1BD67001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 149";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 1862;
+		vrLoc = 3238;
+	};
+	6E8034F613F1BD67001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 149";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 1819;
+		vrLoc = 3238;
+	};
+	6E8034FC13F1BD7C001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 129";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 1819;
+		vrLoc = 3238;
+	};
+	6E80350413F1BDCB001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 129";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 1862;
+		vrLoc = 3238;
+	};
+	6E80350513F1BDCB001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 131";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 1893;
+		vrLoc = 3238;
+	};
+	6E80350913F1BE05001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 151";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 1893;
+		vrLoc = 3238;
+	};
+	6E80350B13F1BE91001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 129";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2101;
+		vrLoc = 2821;
+	};
+	6E80350E13F1BECB001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 121";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2145;
+		vrLoc = 2760;
+	};
+	6E80351213F1BEEC001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 139";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2149;
+		vrLoc = 2760;
+	};
+	6E80351613F1BEFB001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 132";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2148;
+		vrLoc = 2760;
+	};
+	6E80351A13F1C163001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E3D03F313F0E0A600A2F14A /* EnvatoAPI.h */;
+		name = "EnvatoAPI.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 419;
+		vrLoc = 0;
+	};
+	6E80351B13F1C163001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD013EE05E600E3D7ED /* EnvatoNotifierAppDelegate.h */;
+		name = "EnvatoNotifierAppDelegate.h: 28";
+		rLen = 0;
+		rLoc = 648;
+		rType = 0;
+		vrLen = 1105;
+		vrLoc = 0;
+	};
+	6E80351C13F1C163001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E3D03F413F0E0A600A2F14A /* EnvatoAPI.m */;
+		name = "EnvatoAPI.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1644;
+		vrLoc = 0;
+	};
+	6E80351D13F1C163001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 155";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2226;
+		vrLoc = 3355;
+	};
+	6E80351E13F1C163001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 157";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2228;
+		vrLoc = 3355;
+	};
+	6E80352513F1C21C001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 158";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2130;
+		vrLoc = 3350;
+	};
+	6E80352D13F1C29A001FE266 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ']'";
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 157;
+		rType = 1;
+	};
+	6E80352E13F1C29A001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 156";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 383;
+		vrLoc = 5114;
+	};
+	6E80353513F1C2D6001FE266 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ']'";
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 157;
+		rType = 1;
+	};
+	6E80353613F1C2D6001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 159";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2241;
+		vrLoc = 3350;
+	};
+	6E80354013F1C3C4001FE266 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected identifier";
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 157;
+		rType = 1;
+	};
+	6E80354113F1C3C4001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 126";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 384;
+		vrLoc = 3925;
+	};
+	6E80355013F1C448001FE266 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected identifier";
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 157;
+		rType = 1;
+	};
+	6E80355113F1C448001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 126";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2390;
+		vrLoc = 3275;
+	};
+	6E80355713F1C490001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 126";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2386;
+		vrLoc = 2944;
+	};
+	6E80356513F1C4E9001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 126";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2349;
+		vrLoc = 2622;
+	};
+	6E80356713F1C565001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 128";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2299;
+		vrLoc = 2622;
+	};
+	6E80356E13F1C5B9001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 132";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2303;
+		vrLoc = 2622;
+	};
+	6E80357413F1C63B001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 124";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2548;
+		vrLoc = 2944;
+	};
+	6E80357813F1C646001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 125";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2406;
+		vrLoc = 2745;
+	};
+	6E80357E13F1C6BB001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 97";
+		rLen = 0;
+		rLoc = 3254;
+		rType = 0;
+		vrLen = 2257;
+		vrLoc = 2405;
+	};
+	6E80358213F1C6E4001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 89";
+		rLen = 0;
+		rLoc = 2851;
+		rType = 0;
+		vrLen = 2337;
+		vrLoc = 1128;
+	};
+	6E80358413F1C73F001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 155";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2232;
+		vrLoc = 3313;
+	};
+	6E80358B13F1C7C9001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 136";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2243;
+		vrLoc = 3082;
+	};
+	6E80358C13F1C7C9001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E3D03F413F0E0A600A2F14A /* EnvatoAPI.m */;
+		name = "EnvatoAPI.m: 18";
+		rLen = 0;
+		rLoc = 360;
+		rType = 0;
+		vrLen = 1639;
+		vrLoc = 0;
+	};
+	6E80358D13F1C7C9001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD013EE05E600E3D7ED /* EnvatoNotifierAppDelegate.h */;
+		name = "EnvatoNotifierAppDelegate.h: 28";
+		rLen = 0;
+		rLoc = 648;
+		rType = 0;
+		vrLen = 1105;
+		vrLoc = 0;
+	};
+	6E80358E13F1C7C9001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E3D03F313F0E0A600A2F14A /* EnvatoAPI.h */;
+		name = "EnvatoAPI.h: 16";
+		rLen = 0;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 409;
+		vrLoc = 0;
+	};
+	6E80359213F1C8E4001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 85";
+		rLen = 0;
+		rLoc = 2747;
+		rType = 0;
+		vrLen = 2259;
+		vrLoc = 1766;
+	};
+	6E80359313F1C8E4001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD013EE05E600E3D7ED /* EnvatoNotifierAppDelegate.h */;
+		name = "EnvatoNotifierAppDelegate.h: 28";
+		rLen = 0;
+		rLoc = 648;
+		rType = 0;
+		vrLen = 1105;
+		vrLoc = 0;
+	};
+	6E80359413F1C8E4001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E3D03F413F0E0A600A2F14A /* EnvatoAPI.m */;
+		name = "EnvatoAPI.m: 18";
+		rLen = 0;
+		rLoc = 360;
+		rType = 0;
+		vrLen = 1639;
+		vrLoc = 0;
+	};
+	6E80359513F1C8E4001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E3D03F313F0E0A600A2F14A /* EnvatoAPI.h */;
+		name = "EnvatoAPI.h: 16";
+		rLen = 0;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 409;
+		vrLoc = 0;
+	};
+	6E80359613F1C8E4001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E3D03F313F0E0A600A2F14A /* EnvatoAPI.h */;
+		name = "EnvatoAPI.h: 13";
+		rLen = 12;
+		rLoc = 214;
+		rType = 0;
+		vrLen = 419;
+		vrLoc = 0;
+	};
+	6E80359813F1C904001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E3D03F313F0E0A600A2F14A /* EnvatoAPI.h */;
+		name = "EnvatoAPI.h: 13";
+		rLen = 12;
+		rLoc = 214;
+		rType = 0;
+		vrLen = 419;
+		vrLoc = 0;
+	};
+	6E80359913F1C904001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD013EE05E600E3D7ED /* EnvatoNotifierAppDelegate.h */;
+		name = "EnvatoNotifierAppDelegate.h: 28";
+		rLen = 0;
+		rLoc = 648;
+		rType = 0;
+		vrLen = 1105;
+		vrLoc = 0;
+	};
+	6E80359A13F1C904001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 122";
+		rLen = 0;
+		rLoc = 5374;
+		rType = 0;
+		vrLen = 2394;
+		vrLoc = 2859;
+	};
+	6E80359F13F1C94E001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 155";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2170;
+		vrLoc = 3465;
+	};
+	6E8035A313F1C970001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 127";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 587;
+		vrLoc = 4267;
+	};
+	6E8035A413F1C976001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 135";
+		rLen = 0;
+		rLoc = 5459;
+		rType = 0;
+		vrLen = 2210;
+		vrLoc = 3465;
+	};
+	6E8035B513F1CCFF001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E3D03F413F0E0A600A2F14A /* EnvatoAPI.m */;
+		name = "EnvatoAPI.m: 29";
+		rLen = 0;
+		rLoc = 902;
+		rType = 0;
+		vrLen = 1529;
+		vrLoc = 0;
+	};
+	6E8035B613F1CCFF001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E8035B713F1CCFF001FE266 /* EnvatoNotifierAppDelegate.s */;
+		name = "EnvatoNotifierAppDelegate.s: 11";
+		rLen = 0;
+		rLoc = 333;
+		rType = 0;
+		vrLen = 1604;
+		vrLoc = 0;
+	};
+	6E8035B713F1CCFF001FE266 /* EnvatoNotifierAppDelegate.s */ = {
+		isa = PBXFileReference;
+		name = EnvatoNotifierAppDelegate.s;
+		path = "/Users/pablo/Desktop/EnvatoNotifier/build/EnvatoNotifier.build/Debug/EnvatoNotifier.build/Objects-normal/x86_64/EnvatoNotifierAppDelegate.s";
+		sourceTree = "<absolute>";
+	};
+	6E8035B813F1CCFF001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD013EE05E600E3D7ED /* EnvatoNotifierAppDelegate.h */;
+		name = "EnvatoNotifierAppDelegate.h: 41";
+		rLen = 0;
+		rLoc = 1105;
+		rType = 0;
+		vrLen = 1105;
+		vrLoc = 0;
+	};
+	6E8035B913F1CCFF001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 99";
+		rLen = 0;
+		rLoc = 3165;
+		rType = 0;
+		vrLen = 2546;
+		vrLoc = 2622;
+	};
+	6E8035BA13F1CCFF001FE266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E1AAAD113EE05E600E3D7ED /* EnvatoNotifierAppDelegate.m */;
+		name = "EnvatoNotifierAppDelegate.m: 140";
+		rLen = 0;
+		rLoc = 4890;
+		rType = 0;
+		vrLen = 2519;
+		vrLoc = 2856;
+	};
+}
