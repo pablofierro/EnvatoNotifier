@@ -13,4 +13,4 @@ The following was implemented in the project:
 This app is only functional for Envato marketplaces users that wish to monitor their sales activity using MAC OS X.
 
 --
-Pablo
+Docs by Pablo
