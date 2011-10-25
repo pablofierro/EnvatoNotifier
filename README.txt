@@ -11,3 +11,6 @@ The following was implemented in the project:
 3-) GROWL notifications using the growl developer framework.
 
 This app is only functional for Envato marketplaces users that wish to monitor their sales activity using MAC OS X.
+
+--
+Docs by pabo
